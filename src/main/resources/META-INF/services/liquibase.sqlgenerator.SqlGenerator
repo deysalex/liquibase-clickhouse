@@ -1,0 +1,5 @@
+ru.deysa.liquibase.ext.clickhouse.sqlgenerator.CreateDatabaseChangeLogLockTableGeneratorClickhouse
+ru.deysa.liquibase.ext.clickhouse.sqlgenerator.CreateDatabaseChangeLogTableGeneratorClickhouse
+ru.deysa.liquibase.ext.clickhouse.sqlgenerator.InitializeDatabaseChangeLogLockTableGeneratorClickhouse
+ru.deysa.liquibase.ext.clickhouse.sqlgenerator.LockDatabaseChangeLogGeneratorClickhouse
+ru.deysa.liquibase.ext.clickhouse.sqlgenerator.UnlockDatabaseChangeLogGeneratorClickhouse
